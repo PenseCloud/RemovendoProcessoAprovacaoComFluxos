@@ -19,12 +19,8 @@
         </approvalActions>
         <assignedApprover>
             <approver>
-                <name>alekspherreira@mindful-bear-6mz37f.com</name>
-                <type>user</type>
-            </approver>
-            <approver>
-                <name>integration@00d5e0000011h9oeaq.com</name>
-                <type>user</type>
+                <name>Owner</name>
+                <type>relatedUserField</type>
             </approver>
             <whenMultipleApprovers>FirstResponse</whenMultipleApprovers>
         </assignedApprover>

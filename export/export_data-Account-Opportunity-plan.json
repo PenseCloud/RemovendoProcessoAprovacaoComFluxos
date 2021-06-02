@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "export_data-Accounts.json"
+        ]
+    },
+    {
+        "sobject": "Opportunity",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "export_data-Opportunitys.json"
+        ]
+    }
+]

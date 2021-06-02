@@ -1,0 +1,195 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Active__c": "Yes",
+            "AnnualRevenue": 139000000,
+            "Description": "Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.",
+            "Fax": "(512) 757-9000",
+            "Industry": "Electronics",
+            "Name": "Edge Communications",
+            "NumberOfEmployees": 1000,
+            "Phone": "(512) 757-6000",
+            "Rating": "Hot",
+            "Type": "Customer - Direct",
+            "Website": "http://edgecomm.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "AnnualRevenue": 350000000,
+            "Fax": "(336) 222-8000",
+            "Industry": "Apparel",
+            "Name": "Burlington Textiles Corp of America",
+            "NumberOfEmployees": 9000,
+            "Phone": "(336) 222-7000",
+            "Rating": "Warm",
+            "Type": "Customer - Direct",
+            "Website": "www.burlington.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Active__c": "Yes",
+            "AnnualRevenue": 950000000,
+            "Fax": "(014) 427-4428",
+            "Industry": "Construction",
+            "Name": "Pyramid Construction Inc.",
+            "NumberOfEmployees": 2680,
+            "Phone": "(014) 427-4427",
+            "Type": "Customer - Channel",
+            "Website": "www.pyramid.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef4"
+            },
+            "Active__c": "Yes",
+            "AnnualRevenue": 50000000,
+            "Fax": "(785) 241-6201",
+            "Industry": "Consulting",
+            "Name": "Dickenson plc",
+            "NumberOfEmployees": 120,
+            "Phone": "(785) 241-6200",
+            "Type": "Customer - Channel",
+            "Website": "dickenson-consulting.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef5"
+            },
+            "Active__c": "Yes",
+            "AnnualRevenue": 500000000,
+            "Description": "Chain of hotels and resorts across the US, UK, Eastern Europe, Japan, and SE Asia.",
+            "Fax": "(312) 596-1500",
+            "Industry": "Hospitality",
+            "Name": "Grand Hotels & Resorts Ltd",
+            "NumberOfEmployees": 5600,
+            "Phone": "(312) 596-1000",
+            "Rating": "Warm",
+            "Type": "Customer - Direct",
+            "Website": "www.grandhotels.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef6"
+            },
+            "Active__c": "Yes",
+            "AnnualRevenue": 5600000000,
+            "Description": "World's third largest oil and gas company.",
+            "Fax": "(212) 842-5501",
+            "Industry": "Energy",
+            "Name": "United Oil & Gas Corp.",
+            "NumberOfEmployees": 145000,
+            "Phone": "(212) 842-5500",
+            "Rating": "Hot",
+            "Type": "Customer - Direct",
+            "Website": "http://www.uos.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef7"
+            },
+            "Active__c": "Yes",
+            "AnnualRevenue": 950000000,
+            "Description": "Commerical logistics and transportation company.",
+            "Fax": "(503) 421-7801",
+            "Industry": "Transportation",
+            "Name": "Express Logistics and Transport",
+            "NumberOfEmployees": 12300,
+            "Phone": "(503) 421-7800",
+            "Rating": "Cold",
+            "Type": "Customer - Channel",
+            "Website": "www.expressl&t.net"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef8"
+            },
+            "Active__c": "Yes",
+            "Description": "Leading university in AZ offering undergraduate and graduate programs in arts and humanities, pure sciences, engineering, business, and medicine.",
+            "Fax": "(520) 773-9060",
+            "Industry": "Education",
+            "Name": "University of Arizona",
+            "NumberOfEmployees": 39000,
+            "Phone": "(520) 773-9050",
+            "Rating": "Warm",
+            "Type": "Customer - Direct",
+            "Website": "www.universityofarizona.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef9"
+            },
+            "Active__c": "Yes",
+            "Fax": "+44 191 4956620",
+            "Industry": "Energy",
+            "Name": "United Oil & Gas, UK",
+            "NumberOfEmployees": 24000,
+            "Phone": "+44 191 4956203",
+            "Type": "Customer - Direct",
+            "Website": "http://www.uos.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef10"
+            },
+            "Active__c": "Yes",
+            "Fax": "(650) 450-8820",
+            "Industry": "Energy",
+            "Name": "United Oil & Gas, Singapore",
+            "NumberOfEmployees": 3000,
+            "Phone": "(650) 450-8810",
+            "Type": "Customer - Direct",
+            "Website": "http://www.uos.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef11"
+            },
+            "Active__c": "Yes",
+            "AnnualRevenue": 30000000,
+            "Description": "Genomics company engaged in mapping and sequencing of the human genome and developing gene-based drugs",
+            "Fax": "(650) 867-9895",
+            "Industry": "Biotechnology",
+            "Name": "GenePoint",
+            "NumberOfEmployees": 265,
+            "Phone": "(650) 867-3450",
+            "Rating": "Cold",
+            "Type": "Customer - Channel",
+            "Website": "www.genepoint.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef12"
+            },
+            "Fax": "(415) 901-7002",
+            "Name": "sForce",
+            "Phone": "(415) 901-7000",
+            "Website": "www.sforce.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef13"
+            },
+            "Name": "Conta de exemplo para direitos"
+        }
+    ]
+}

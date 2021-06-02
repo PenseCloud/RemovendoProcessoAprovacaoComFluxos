@@ -1,0 +1,358 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef1"
+            },
+            "AccountId": "@AccountRef1",
+            "Amount": 50000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Needs Analysis",
+            "Name": "Edge Installation"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef2"
+            },
+            "AccountId": "@AccountRef1",
+            "Amount": 60000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Needs Analysis",
+            "Name": "Edge SLA"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef3"
+            },
+            "AccountId": "@AccountRef1",
+            "Amount": 35000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Qualification",
+            "Name": "Edge Emergency Generator"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef4"
+            },
+            "AccountId": "@AccountRef1",
+            "Amount": 75000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Qualification",
+            "Name": "Edge Emergency Generator",
+            "TrackingNumber__c": "830150301420"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef5"
+            },
+            "AccountId": "@AccountRef2",
+            "Amount": 235000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Prospecting",
+            "Name": "Burlington Textiles Weaving Plant Generator",
+            "TrackingNumber__c": "830150301360"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef6"
+            },
+            "AccountId": "@AccountRef3",
+            "Amount": 100000,
+            "CloseDate": "2019-04-10",
+            "Maximum_Date_Analyse__c": "2021-05-26",
+            "StageName": "Needs Analysis",
+            "Name": "Pyramid Emergency Generators"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef7"
+            },
+            "AccountId": "@AccountRef4",
+            "Amount": 15000,
+            "CloseDate": "2019-04-10",
+            "Maximum_Date_Analyse__c": "2021-05-26",
+            "StageName": "Prospecting",
+            "Name": "Dickenson Mobile Generators"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef8"
+            },
+            "AccountId": "@AccountRef5",
+            "Amount": 210000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "Grand Hotels Emergency Generators",
+            "TrackingNumber__c": "830150301360"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef9"
+            },
+            "AccountId": "@AccountRef5",
+            "Amount": 90000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "Grand Hotels SLA"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef10"
+            },
+            "AccountId": "@AccountRef5",
+            "Amount": 350000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "Grand Hotels Generator Installations"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef11"
+            },
+            "AccountId": "@AccountRef5",
+            "Amount": 250000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Prospecting",
+            "Name": "Grand Hotels Guest Portable Generators"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef12"
+            },
+            "AccountId": "@AccountRef5",
+            "Amount": 15000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Id. Decision Makers",
+            "Name": "Grand Hotels Kitchen Generator"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef13"
+            },
+            "AccountId": "@AccountRef6",
+            "Amount": 440000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "United Oil Emergency Generators",
+            "TrackingNumber__c": "830150301420"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef14"
+            },
+            "AccountId": "@AccountRef6",
+            "Amount": 120000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "United Oil Standby Generators",
+            "TrackingNumber__c": "830150301360"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef15"
+            },
+            "AccountId": "@AccountRef6",
+            "Amount": 675000,
+            "CloseDate": "2019-04-10",
+            "Maximum_Date_Analyse__c": "2021-05-26",
+            "StageName": "Qualification",
+            "Name": "United Oil Plant Standby Generators"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef16"
+            },
+            "AccountId": "@AccountRef6",
+            "Amount": 235000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "United Oil Installations"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef17"
+            },
+            "AccountId": "@AccountRef6",
+            "Amount": 125000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Prospecting",
+            "Name": "United Oil Office Portable Generators"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef18"
+            },
+            "AccountId": "@AccountRef6",
+            "Amount": 270000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Proposal/Price Quote",
+            "Name": "United Oil Refinery Generators"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef19"
+            },
+            "AccountId": "@AccountRef6",
+            "Amount": 120000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "United Oil SLA"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef20"
+            },
+            "AccountId": "@AccountRef6",
+            "Amount": 270000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Negotiation/Review",
+            "Name": "United Oil Installations"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef21"
+            },
+            "AccountId": "@AccountRef6",
+            "Amount": 270000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "United Oil Installations"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef22"
+            },
+            "AccountId": "@AccountRef6",
+            "Amount": 915000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "United Oil Refinery Generators",
+            "TrackingNumber__c": "830150301360"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef23"
+            },
+            "AccountId": "@AccountRef7",
+            "Amount": 120000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Perception Analysis",
+            "Name": "Express Logistics SLA"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef24"
+            },
+            "AccountId": "@AccountRef7",
+            "Amount": 80000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Needs Analysis",
+            "Name": "Express Logistics Portable Truck Generators"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef25"
+            },
+            "AccountId": "@AccountRef7",
+            "Amount": 220000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "Express Logistics Standby Generator",
+            "TrackingNumber__c": "830150301420"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef26"
+            },
+            "AccountId": "@AccountRef8",
+            "Amount": 50000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "University of AZ Portable Generators",
+            "TrackingNumber__c": "830150301360"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef27"
+            },
+            "AccountId": "@AccountRef8",
+            "Amount": 90000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "University of AZ SLA"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef28"
+            },
+            "AccountId": "@AccountRef8",
+            "Amount": 100000,
+            "CloseDate": "2019-04-10",
+            "Maximum_Date_Analyse__c": "2021-05-25",
+            "StageName": "Needs Analysis",
+            "Name": "University of AZ Installations"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef29"
+            },
+            "AccountId": "@AccountRef11",
+            "Amount": 60000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Id. Decision Makers",
+            "Name": "GenePoint Lab Generators"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef30"
+            },
+            "AccountId": "@AccountRef11",
+            "Amount": 85000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "GenePoint Standby Generator",
+            "TrackingNumber__c": "830150301420"
+        },
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef31"
+            },
+            "AccountId": "@AccountRef11",
+            "Amount": 30000,
+            "CloseDate": "2019-04-10",
+            "StageName": "Closed Won",
+            "Name": "GenePoint SLA"
+        }
+    ]
+}
