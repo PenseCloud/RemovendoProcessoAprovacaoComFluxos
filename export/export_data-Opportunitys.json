@@ -42,8 +42,7 @@
             "Amount": 75000,
             "CloseDate": "2019-04-10",
             "StageName": "Qualification",
-            "Name": "Edge Emergency Generator",
-            "TrackingNumber__c": "830150301420"
+            "Name": "Edge Emergency Generator"
         },
         {
             "attributes": {
@@ -54,8 +53,7 @@
             "Amount": 235000,
             "CloseDate": "2019-04-10",
             "StageName": "Prospecting",
-            "Name": "Burlington Textiles Weaving Plant Generator",
-            "TrackingNumber__c": "830150301360"
+            "Name": "Burlington Textiles Weaving Plant Generator"
         },
         {
             "attributes": {
@@ -90,8 +88,7 @@
             "Amount": 210000,
             "CloseDate": "2019-04-10",
             "StageName": "Closed Won",
-            "Name": "Grand Hotels Emergency Generators",
-            "TrackingNumber__c": "830150301360"
+            "Name": "Grand Hotels Emergency Generators"
         },
         {
             "attributes": {
@@ -146,8 +143,7 @@
             "Amount": 440000,
             "CloseDate": "2019-04-10",
             "StageName": "Closed Won",
-            "Name": "United Oil Emergency Generators",
-            "TrackingNumber__c": "830150301420"
+            "Name": "United Oil Emergency Generators"
         },
         {
             "attributes": {
@@ -158,8 +154,7 @@
             "Amount": 120000,
             "CloseDate": "2019-04-10",
             "StageName": "Closed Won",
-            "Name": "United Oil Standby Generators",
-            "TrackingNumber__c": "830150301360"
+            "Name": "United Oil Standby Generators"
         },
         {
             "attributes": {
@@ -248,8 +243,7 @@
             "Amount": 915000,
             "CloseDate": "2019-04-10",
             "StageName": "Closed Won",
-            "Name": "United Oil Refinery Generators",
-            "TrackingNumber__c": "830150301360"
+            "Name": "United Oil Refinery Generators"
         },
         {
             "attributes": {
@@ -282,8 +276,7 @@
             "Amount": 220000,
             "CloseDate": "2019-04-10",
             "StageName": "Closed Won",
-            "Name": "Express Logistics Standby Generator",
-            "TrackingNumber__c": "830150301420"
+            "Name": "Express Logistics Standby Generator"
         },
         {
             "attributes": {
@@ -294,8 +287,7 @@
             "Amount": 50000,
             "CloseDate": "2019-04-10",
             "StageName": "Closed Won",
-            "Name": "University of AZ Portable Generators",
-            "TrackingNumber__c": "830150301360"
+            "Name": "University of AZ Portable Generators"
         },
         {
             "attributes": {
@@ -340,8 +332,7 @@
             "Amount": 85000,
             "CloseDate": "2019-04-10",
             "StageName": "Closed Won",
-            "Name": "GenePoint Standby Generator",
-            "TrackingNumber__c": "830150301420"
+            "Name": "GenePoint Standby Generator"
         },
         {
             "attributes": {

@@ -5,7 +5,6 @@
                 "type": "Account",
                 "referenceId": "AccountRef1"
             },
-            "Active__c": "Yes",
             "AnnualRevenue": 139000000,
             "Description": "Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.",
             "Fax": "(512) 757-9000",
@@ -37,7 +36,6 @@
                 "type": "Account",
                 "referenceId": "AccountRef3"
             },
-            "Active__c": "Yes",
             "AnnualRevenue": 950000000,
             "Fax": "(014) 427-4428",
             "Industry": "Construction",
@@ -52,7 +50,6 @@
                 "type": "Account",
                 "referenceId": "AccountRef4"
             },
-            "Active__c": "Yes",
             "AnnualRevenue": 50000000,
             "Fax": "(785) 241-6201",
             "Industry": "Consulting",
@@ -67,7 +64,6 @@
                 "type": "Account",
                 "referenceId": "AccountRef5"
             },
-            "Active__c": "Yes",
             "AnnualRevenue": 500000000,
             "Description": "Chain of hotels and resorts across the US, UK, Eastern Europe, Japan, and SE Asia.",
             "Fax": "(312) 596-1500",
@@ -84,7 +80,6 @@
                 "type": "Account",
                 "referenceId": "AccountRef6"
             },
-            "Active__c": "Yes",
             "AnnualRevenue": 5600000000,
             "Description": "World's third largest oil and gas company.",
             "Fax": "(212) 842-5501",
@@ -101,7 +96,6 @@
                 "type": "Account",
                 "referenceId": "AccountRef7"
             },
-            "Active__c": "Yes",
             "AnnualRevenue": 950000000,
             "Description": "Commerical logistics and transportation company.",
             "Fax": "(503) 421-7801",
@@ -118,7 +112,6 @@
                 "type": "Account",
                 "referenceId": "AccountRef8"
             },
-            "Active__c": "Yes",
             "Description": "Leading university in AZ offering undergraduate and graduate programs in arts and humanities, pure sciences, engineering, business, and medicine.",
             "Fax": "(520) 773-9060",
             "Industry": "Education",
@@ -134,7 +127,6 @@
                 "type": "Account",
                 "referenceId": "AccountRef9"
             },
-            "Active__c": "Yes",
             "Fax": "+44 191 4956620",
             "Industry": "Energy",
             "Name": "United Oil & Gas, UK",
@@ -148,7 +140,6 @@
                 "type": "Account",
                 "referenceId": "AccountRef10"
             },
-            "Active__c": "Yes",
             "Fax": "(650) 450-8820",
             "Industry": "Energy",
             "Name": "United Oil & Gas, Singapore",
@@ -162,7 +153,6 @@
                 "type": "Account",
                 "referenceId": "AccountRef11"
             },
-            "Active__c": "Yes",
             "AnnualRevenue": 30000000,
             "Description": "Genomics company engaged in mapping and sequencing of the human genome and developing gene-based drugs",
             "Fax": "(650) 867-9895",
