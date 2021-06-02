@@ -34,6 +34,7 @@
 	</types>
 	<types>
 		<members>Close_lost_opportunity</members>
+		<members>Set_Max_Date_Analyses_for_Today</members>
 		<members>Submit_Opportunity_to_approval</members>
 		<name>Flow</name>
 	</types>
