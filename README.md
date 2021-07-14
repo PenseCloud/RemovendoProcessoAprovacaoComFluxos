@@ -1,18 +1,46 @@
-# Salesforce DX Project: Next Steps
+# Removendo processos de aprovações atráves de fluxos agendados
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+![flow](img/Flow_View.png)
 
-## How Do You Plan to Deploy Your Changes?
+Configurando um fluxo agendado capaz excluir processos de aprovações pendentes.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## Instalando em uma Scratch Org
 
-## Configure Your Salesforce DX Project
+1. clone o repositório do git:
+```
+git clone https://github.com/PenseCloud/RemovendoProcessoAprovacaoComFluxos.git
+```
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+2. Autorize seu DevHub ( caso queira, substitua o **myhuborg** por um alias a seu critério )
+```
+sfdx auth:web:login -d -a myhuborg
+```
 
-## Read All About It
+3. Crie uma nova Scratch Org para poder trabalhar ( caso queira, substitua o **approvalProcess** por um alias a seu critério )
+```
+sfdx force:org:create -s -f config/project-scratch-def.json -a approvalProcess
+```
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+4. Faça o deploy dos metadados para a sua Scratch Org
+```
+sfdx force:source:push
+```
+
+5. Atribua o conjunto de permissões ao seu usuário:
+```
+sfdx force:user:permset:assign -n RemoveApprovalProcessWithFlow
+```
+
+6. Implante os dados de amostra
+```
+sfdx force:data:tree:import -p ./export/export_data-Account-Opportunity-plan.json
+```
+
+7. Abra sua scratch org
+```
+sfdx force:org:open
+```
+
+### Testando o fluxo
+Inicialmente o fluxo está agendo para rodar todos os dias às 07:30 AM.
+Você pode fazer uma depuração para verificar o comportamento e esperar até a próxima execução, ou pode ir até o fluxo chamado **Close lost opportunity** e alterar o horário de início para o que melhor se adapte a sua necessidade. Após alterá-lo você deverá salvar uma nova versão e ativá-lo para que possa executar com o novo horário.
